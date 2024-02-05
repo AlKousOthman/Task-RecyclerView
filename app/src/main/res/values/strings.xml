@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bank Accounts</string>
+    <string name="currency_code">Currency code</string>
+    <string name="exchange_rate">Exchange Rate</string>
+    <string name="CurrencyName">q??</string>
+    <string name="nametextview">TextView</string>
+</resources>
